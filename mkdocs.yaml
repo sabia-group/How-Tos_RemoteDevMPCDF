@@ -1,10 +1,11 @@
 site_name: Remove Development on MPCDF cluster
+site_description: Sweet sweet remote development on the MPCDF cluster with productivity tools like Jupyter, VSCode, and more.
 
 theme:
   name: readthedocs
   highlightjs: true
 
-site_url: https://github.com/sabia-group/How-Tos_RemoteDevMPCDF
+repo_url: https://github.com/sabia-group/How-Tos_RemoteDevMPCDF
 
 nav:
   - Home: index.md
