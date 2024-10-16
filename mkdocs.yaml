@@ -1,4 +1,4 @@
-site_name: Remove Development on MPCDF cluster
+site_name: Remote Development on MPCDF cluster
 site_description: Sweet sweet remote development on the MPCDF cluster with productivity tools like Jupyter, VSCode, and more.
 
 theme:
